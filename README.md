@@ -2,6 +2,8 @@
 
 A content-based movie recommendation engine covering Indian cinema across multiple languages, complete with an interactive web interface served via Flask.
 
+<img width="1333" height="833" alt="image" src="https://github.com/user-attachments/assets/20464098-758c-4957-8afe-44f8b3aa46d1" />
+
 ---
 
 ## 📖 Overview
