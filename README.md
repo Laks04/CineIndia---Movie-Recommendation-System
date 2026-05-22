@@ -1,7 +1,7 @@
 # 🎬 CineIndia — Movie Recommendation System
 
 A content-based movie recommendation engine covering Indian cinema across multiple languages, complete with an interactive web interface served via Flask.
-[![Live Site](https://img.shields.io/badge/Live%20Site-cccccc?style=for-the-badge)](https://5000-m-s-kkb-use1d2-3eqdqi1trw08r-d.us-east1-2.prod.colab.dev/)
+
 <img width="1351" height="903" alt="image" src="https://github.com/user-attachments/assets/cca2eb76-9c69-4c33-8def-58f2ff539b49" />
 
 
